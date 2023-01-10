@@ -1,4 +1,4 @@
-module github.com/foxcpp/gomine
+module github.com/cyber-dream/gomine
 
 require (
 	github.com/mitchellh/mapstructure v1.1.2
